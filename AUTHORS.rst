@@ -2,4 +2,7 @@
 Developers
 ==========
 
-* aszadzinski <albert.szadzinski@protonmail.com>
+* aszadzinski
+* GrygielP
+* Gulaabihaathee
+* MartaUrbaniak

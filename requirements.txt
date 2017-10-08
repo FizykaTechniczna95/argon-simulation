@@ -2,3 +2,12 @@
 # numpy
 # scipy>=0.9
 
+cycler==0.10.0
+matplotlib==2.1.0
+numpy==1.13.3
+pandas==0.20.3
+pyparsing==2.2.0
+PyScaffold==2.5.8
+python-dateutil==2.6.1
+pytz==2017.2
+six==1.11.0
