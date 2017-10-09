@@ -1,0 +1,4 @@
+*.gch
+*.pyc
+*.swp
+build-gui-Desktop-Debug/
