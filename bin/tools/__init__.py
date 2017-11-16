@@ -1,4 +1,8 @@
-
+def debug(func):
+    def wraper(*args):
+        for i in args:
+            print('arg {}'.format(i))
+    return wraper
 
 def load_constants(path):
     with open(path,'r') as file:
